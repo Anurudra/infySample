@@ -17,7 +17,7 @@ public class TrainingDAOImpl implements TrainingDAO {
 	
 	public Map<String,Integer> getExamDuration(){
 		Map<String,Integer> durationMap=new HashMap<String,Integer>();
-		durationMap.put("Hands-On", 180);
+		durationMap.put("Hands-On", 190);
 		durationMap.put("Objective", 90);
 		return durationMap;
 	}
