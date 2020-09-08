@@ -1,5 +1,5 @@
 package com.infytraining.bean;
-
+import java.util.*;
 public class Trainee {
 	private Integer empNo;
 	private String emailId;
